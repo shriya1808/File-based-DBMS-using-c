@@ -1,0 +1,6 @@
+32      Anushree        Mysore      26/08/2000    anu@gmail.com             9854647804      BE      CS
+45      Shriya          Gadag       18/05/2001    shriya@gmail.com          9448729349      MS      CS
+65	Susmitha	Mandya	    01/06/2001    susmitha@gmail.com	    6754908318	    BE	    EEE
+67      Kartik          Kumta       26/06/2000    kartik@gmail.com          9876543287      PHD     CS
+78      Rohan           Hyderabad   18/12/1999    rohan@gmail.com           8618956731      MS      CS
+89      Yuktha          Mndya       23/07/2000    yuktha@gmail.com          6754298160      BE      CS
